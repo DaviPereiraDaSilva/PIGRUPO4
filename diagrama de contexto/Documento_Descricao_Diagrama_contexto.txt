@@ -1,0 +1,28 @@
+O que são Diagramas de Contexto e Para que Servem?
+
+
+ Os diagramas de contexto são uma ferramenta visual usada no campo da engenharia de software e análise de sistemas para representar a interação entre um sistema e seus atores externos. Esses diagramas fornecem uma visão de alto nível sobre o escopo e as fronteiras do sistema, permitindo que todos os envolvidos no desenvolvimento e na análise do sistema compreendam rapidamente sua relação com o ambiente em que ele opera.
+
+
+Objetivo dos Diagramas de Contexto O principal objetivo de um diagrama de contexto é representar de forma simples e clara como um sistema de interação com entidades externas, sem se aprofundar em detalhes internos ou processos específicos. Eles são usados ​​para mapear as entradas e saídas do sistema, bem como os fluxos de dados entre o sistema e seus usuários ou sistemas conectados. Isso ajuda a definir os limites do sistema, ou seja, o que está dentro e o que está fora do escopo. 
+Características de um Diagrama de Contexto
+
+
+ 1. Sistema Central: 
+O sistema que está sendo desenvolvido ou desenvolvido é representado como um único bloco central (geralmente um retângulo ou círculo ) que contém o nome ou a descrição do sistema.
+
+O diagrama de contexto é, portanto, uma ferramenta fundamental para o início de qualquer projeto de desenvolvimento de sistemas, pois ele ajuda a fornecer uma visão de alto nível que é facilmente compreendido por todos os envolvidos no processo. Ele facilita o alinhamento entre os stakeholders, como clientes, gerentes de projeto, desenvolvedores e analistas, garantindo que todos compartilhem uma compreensão clara do que o sistema fará, quais são seus limites e como ele interage com os componentes externos.
+
+ Além disso, o diagrama de contexto não é estático. À medida que o projeto avança e o sistema se torna mais detalhado, ele pode ser revisado e aprimorado, à medida que mais informações sobre as interações e requisitos se tornam claros. Isso o torna uma ferramenta dinâmica e útil durante toda a fase de planejamento e até mesmo ao longo da implementação do sistema. 
+
+Importância na Fase de Análise de Requisitos Na fase de análise de requisitos, um diagrama de contexto desempenha um papel essencial para ajudar a identificar os requisitos do sistema com base nas interações com os operadores externos. Ele permite que uma equipe de desenvolvimento compreenda não apenas as funcionalidades que o sistema deve fornecer, mas também o tipo de dados que ele deve processar e a natureza das interações com os usuários ou sistemas externos . Ao elaborar um diagrama de contexto, os analistas de sistema podem identificar de maneira clara e concisa: 
+
+1. Atores e Usuários: 
+Quais são os usuários ou sistemas externos que interagem com o sistema? Quais são as suas expectativas em relação ao sistema? 
+
+2. Fluxos de Dados: Quais são os dados que entram ou saem do sistema? Como esses dados devem ser processados ​​ou validados?
+
+ 3.Dependências Externas: O sistema depende de outras plataformas ou serviços? Como ele interage com essas dependências?
+
+ 4.Limitações e Requisitos de Integração: Quais são as limitações do sistema em termos de integração com outros sistemas ou processos? Esses pontos são fundamentais para garantir que os requisitos sejam bem definidos e que o sistema seja desenvolvido de acordo com as necessidades do usuário e as condições de operação. Relação com Outros Diagramas O diagrama de contexto é muitas vezes o primeiro passo na modelagem de sistemas e é geralmente complementado por outros diagrama que oferecem maior detalhamento sobre o sistema e suas interações internos. Como por exemplo o Diagrama de caso de uso.
+

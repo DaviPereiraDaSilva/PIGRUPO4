@@ -1,0 +1,23 @@
+@startuml
+skinparam rectangle {
+  BackgroundColor #FFFFFF
+  BorderColor black
+  BorderThickness 2
+  RoundCorner 10
+}
+
+rectangle "Advogada (Dra. Francielli Palma Maciel)\n- Solicita informações (publicações, cálculos, taxas)" as Advogada
+rectangle "Software Jurídico\n- Consulta publicações nos Diários Oficiais\n- Consulta jurisprudências nos Tribunais\n- Realiza cálculos judiciais\n- Consulta bases de dados jurídicas" as Sistema
+rectangle "Diários Oficiais\n- Retorna publicações" as Diarios
+rectangle "Tribunais de Justiça\n- Retorna jurisprudências" as Tribunais
+rectangle "Sistema de Gestão Financeira\n- Retorna cálculos judiciais e valores" as Financeiro
+rectangle "Referências Jurídicas (ex.: AASP)\n- Retorna resultados de pesquisa" as Referencias
+
+Advogada -down-> Sistema : Solicita informações
+Sistema -down-> Diarios : Consulta publicações
+Sistema -down-> Tribunais : Consulta jurisprudências
+Sistema -down-> Financeiro : Realiza cálculos
+Sistema -down-> Referencias : Consulta dados jurídicos
+
+Sistema -down-> Advogada : Retorna informações processadas
+@enduml
