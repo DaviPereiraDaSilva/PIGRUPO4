@@ -1,0 +1,49 @@
+ 
+
+o que são diagrama de casos de uso?
+
+ Em sua forma mais simples, um caso de uso 
+identifica os atores envolvidos em uma interação 
+e dá nome ao tipo de interação. Essa é, então, 
+suplementada por informações adicionais que 
+descrevem a interação com o sistema. 
+A informação adicional pode ser uma descrição 
+textual ou um ou mais modelos gráficos, como 
+diagrama de sequência ou de estados da UML.
+Os casos de uso são documentados por um 
+diagrama de casos de uso de alto nível. 
+O conjunto de casos de uso representa todas as 
+possíveis interações que serão descritas nos 
+requisitos de sistema.
+Atores, que podem ser pessoas ou outros 
+sistemas, são representados como figuras 
+‘palito’. 
+Cada classe de interação é representada por 
+uma elipse. Linhas fazem a ligação entre os 
+atores e a interação. 
+Opcionalmente, pontas de flechas podem ser 
+adicionadas às linhas para mostrar como a 
+interação se inicia.
+
+Os diagramas de casos de uso UML são fundamentais na modelagem e design de sistemas.
+ Eles melhoram a comunicação, aumentam a compreensão do sistema e apoiam o
+  gerenciamento efetivo de projetos.
+
+ Como fazer um diagrama de caso de uso?
+
+Identificar os atores: Inicialmente, é necessário reconhecer todos os atores que interagem com o sistema.
+ Podem ser pessoas, sistemas externos ou entidades desempenhando funções específicas.
+
+Descrever os casos de uso: Enumere as diversas funções, processos ou ações que o sistema disponibiliza aos atores.
+ São os casos de uso, os quais refletem o comportamento previsto do sistema do ponto de vista do usuário.
+
+Estabelecer conexões: Vincule os atores aos casos de uso correspondentes por meio de linhas ou conectores.
+ Essas relações indicam que um ator dá início ou se envolve em casos de uso particulares.
+
+Incorporar representações: Utilize elipses para representar os casos de uso e figuras palitos para os atores.
+ Nomeie-os de forma significativa e utilize setas ou linhas para representar as interações entre atores e casos de uso.
+
+Analisar e aprimorar: Ao final, revise e melhore o diagrama para assegurar que ele reflita de forma precisa a funcionalidade e as interações do sistema.
+
+
+

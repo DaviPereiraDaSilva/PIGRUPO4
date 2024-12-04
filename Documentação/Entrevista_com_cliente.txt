@@ -1,0 +1,59 @@
+Diagrama de casos de uso site de Advocacia DRA FRANCIELLI PALMA MACIEL 
+
+O que eu preciso do Software? (entrevista com cliente administrtador da Empresa)
+
+A) Que ele busque pelo meu nome e minha OAB em todos os Diários Oficiais do Brasil trazendo publicações.
+
+
+B) Elaboração de cálculos judicias: Cálculos iniciais, de liquidação, FGTS, Juros e correção monetária.
+
+C) Informação sobre o Valor das Taxas judiciais
+
+D) Pesquisa de Jurisprudências em todos os tribunais.
+
+
+Exemplo de site que eu uso e tem essas funcionalidades : AASP
+https://www.aasp.org.br/
+
+
+Cores: Preto e Dourado
+
+o diagrama de casos de uso precisa  estar alinhado  ao diagrama de contexto.
+
+   Lista de casos de uso: 
+
+   Elaboraçao de cálculos judiciais
+   informar valores das taxas judiciais
+   Pesquisa de jurisprudencias em todos os tribunais
+   cálculos iniciais
+   Cálculos de liquidação
+   FGTS
+   Buscar pelo mome e OAB
+   juros e coreção monetaria
+   buscas no site
+   Associar-se ao site
+   login"
+ 
+ Elaboraçao de cálculos judiciais:
+ o sistema deve permitir que o  administrador da Empresa faça Elaboração de cálculos judicias,
+  Cálculos iniciais, de liquidação, FGTS, Juros e correção monetária.
+o sistema deve permitir que o cliente tenha acesso ao juros e correção monetaria.
+
+Informação sobre o Valor das Taxas judiciais:
+o sistema deve permitir que o adminidtrador da Empresa informe 
+ valores das taxas judiciais aos clientes.
+
+ Pesquisa de Jurisprudências em todos os tribunais:
+o sistema deve permirtir que o administrador da Empresa 
+faça Pesquisa de Jurisprudências em todos os tribunais.
+
+login 
+ o sistema deve permitir que os clientes  se logarem 
+ com o uso do logim do google .
+
+ check-out:
+o sistema deve guiar os clientes
+atraves do processo de check-out  que inclui:
+o cliente deve ter acesso a buscas no site,
+ associen-se,faça buscas pelo nome do administrador da Empresa e sua (OAB).
+ o sintama deve validar os dados  fornrcidos pelo cliente durante o check-out.
